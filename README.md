@@ -1,2 +1,3 @@
 # Qarr
-This is a framework library meant to structure application development for ReactJS Apps
+
+A simple CommonJS module system for jQuery applications built as a POC
